@@ -1,2 +1,2 @@
 project(Ctest)
-add_executable(Jtest Ctest.c)
+add_executable(Jtest src/Ctest.c)
